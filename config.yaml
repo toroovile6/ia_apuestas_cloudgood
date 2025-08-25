@@ -1,0 +1,18 @@
+leagues: [39, 140, 135, 78, 61, 2, 3]
+markets:
+  - code: O1_5
+    line: 1.5
+    kind: over
+    min_prob: 0.75
+  - code: O2_5
+    line: 2.5
+    kind: over
+    min_prob: 0.62
+  - code: U3_5
+    line: 3.5
+    kind: under
+    min_prob: 0.60
+min_odds: 1.20
+min_ev: 0.00
+bookmaker_id: 8
+horizon_days: 8

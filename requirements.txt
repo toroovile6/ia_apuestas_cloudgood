@@ -1,0 +1,8 @@
+requests
+pandas
+numpy
+scikit-learn
+python-dotenv
+pyyaml
+pytz
+joblib
